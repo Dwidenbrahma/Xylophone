@@ -64,8 +64,6 @@ The **Xylophone Flutter App** is a fun and interactive musical application that 
 - Include visual animations when buttons are tapped.
 - Provide a record and playback feature.
 
-## Demo Video
-<iframe src="https://drive.google.com/file/d/1OLONuFcrjECOVKeljNRxK_MwzF13i6Ay/preview" width="640" height="360" allow="autoplay"></iframe>
 
 ## Download the App
 Click the link below to download and install the Xylophone Flutter App on your Android device:
