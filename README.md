@@ -17,7 +17,7 @@ The **Xylophone Flutter App** is a fun and interactive musical application that 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Dwidenbrahma/Xylophone.git
+   git clone <repository_url>
    cd xylophone_flutter
    ```
 
@@ -65,7 +65,7 @@ The **Xylophone Flutter App** is a fun and interactive musical application that 
 - Provide a record and playback feature.
 
 ## Demo Video
-[Click here to watch the demo video](https://drive.google.com/drive/folders/1OLONuFcrjECOVKeljNRxK_MwzF13i6Ay)
+<iframe src="https://drive.google.com/file/d/1OLONuFcrjECOVKeljNRxK_MwzF13i6Ay/preview" width="640" height="360" allow="autoplay"></iframe>
 
 ## Download the App
 Click the link below to download and install the Xylophone Flutter App on your Android device:
