@@ -9,8 +9,9 @@ The **Xylophone Flutter App** is a fun and interactive musical application that 
 - **Simple UI**: Clean and minimalistic user interface.
 - **Customizable Design**: Easily modify colors and sound files.
 
-## Demo
-![Demo Image](https://via.placeholder.com/600x300)  
+## Sceenshot
+![Demo Image](<img src="Xylophone.png" alt="My Image" width="500" height="300">
+)  
 *Screenshot of the app in action.*
 
 ## Installation
