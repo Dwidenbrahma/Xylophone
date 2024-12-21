@@ -17,7 +17,7 @@ The **Xylophone Flutter App** is a fun and interactive musical application that 
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Dwidenbrahma/Xylophone.git
    cd xylophone_flutter
    ```
 
@@ -27,19 +27,19 @@ The **Xylophone Flutter App** is a fun and interactive musical application that 
    ```
 
 3. Add audio files:
-    - Place audio files (`note1.wav`, `note2.wav`, ..., `note7.wav`) in the `assets` folder.
-    - Update `pubspec.yaml` to include the assets:
-      ```yaml
-      flutter:
-        assets:
-          - assets/note1.wav
-          - assets/note2.wav
-          - assets/note3.wav
-          - assets/note4.wav
-          - assets/note5.wav
-          - assets/note6.wav
-          - assets/note7.wav
-      ```
+   - Place audio files (`note1.wav`, `note2.wav`, ..., `note7.wav`) in the `assets` folder.
+   - Update `pubspec.yaml` to include the assets:
+     ```yaml
+     flutter:
+       assets:
+         - assets/note1.wav
+         - assets/note2.wav
+         - assets/note3.wav
+         - assets/note4.wav
+         - assets/note5.wav
+         - assets/note6.wav
+         - assets/note7.wav
+     ```
 
 4. Run the app:
    ```bash
@@ -64,10 +64,13 @@ The **Xylophone Flutter App** is a fun and interactive musical application that 
 - Include visual animations when buttons are tapped.
 - Provide a record and playback feature.
 
+## Demo Video
+[Click here to watch the demo video](https://drive.google.com/drive/folders/1OLONuFcrjECOVKeljNRxK_MwzF13i6Ay)
+
 ## Download the App
 Click the link below to download and install the Xylophone Flutter App on your Android device:
 
-[Download Xylophone Flutter App APK](https://drive.google.com/file/d/1YF52sTUnqn7RY-NO4wuvErj6D9Mjh4KR/view?usp=sharing)
+[Download Xylophone Flutter App APK](https://drive.google.com/your-apk-link)
 
 ## License
 This project is licensed under the MIT License.
